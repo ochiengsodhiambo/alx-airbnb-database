@@ -115,7 +115,7 @@
 
 ---
 
-## Relevance of 3NF Applied
+## Relevance of 3NF Steps Applied
 - Eliminates redundancy  like the instance where locations and roles are now stored separately.
 - Maintains data consistency and scalability.
 - Ensuring all non-key attributes depend solely on the primary key.
