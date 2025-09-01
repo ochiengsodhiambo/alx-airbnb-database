@@ -5,7 +5,7 @@
 - **Logic:** Counts the total number of bookings for each user.
 - **Key Points:**
   - `GROUP BY` aggregates bookings per user.
-  - `LEFT JOIN` ensures users with zero bookings are included.
+  - `LEFT JOIN` ensures users with no bookings are included.
 - **Use Case:** Find the total bookings made by each user and rank activity.
 
 ---
